@@ -16,7 +16,10 @@
                         <div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
                         Upload
                     </a>
-
+                    <a class="nav-link" href="photos.php">
+                        <div class="sb-nav-link-icon"></div>
+                        Photos
+                    </a>
                     <a class="nav-link" href="comments.php">
                         <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
                         Comments
